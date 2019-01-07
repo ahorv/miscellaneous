@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from copy import copy
 
 ######################################################################
-## Hoa: 13.04.2018 Version 1 : sky.py
+## Hoa: 13.04.2018 Version 1 : sun_1.py
 ######################################################################
 # Calculates sunset, sunrise as well moonrise and moonset
 #
